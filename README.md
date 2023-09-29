@@ -49,3 +49,8 @@ Let's connect and collaborate to make the web a better place!🕊️
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="65"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="65"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitByteBard&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
