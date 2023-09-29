@@ -11,10 +11,10 @@
 ### :man_technologist: About Me :
  **Hello World!**
 
- Aspiring web developer on a journey to master the digital world.
+ I'm an emerging web developer on a dedicated mission to excel in the realm of digital technology.
 
 - 🐍**Python**:
-I'm diving into Python, a versatile programming language for web development and data analysis.
+Diving into Python, a versatile programming language for web development and data analysis.
 
 - 📊**SQL Databases**: 
 Exploring SQL databases, mastering data design and querying.
@@ -38,3 +38,14 @@ Let's connect and collaborate to make the web a better place!🕊️
 
 ---
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="75"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="65"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" width="65"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="65"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="65"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="65"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="65"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="65"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="65"/>
+</div>
