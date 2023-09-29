@@ -52,5 +52,4 @@ Let's connect and collaborate to make the web a better place!🕊️
 
 ---
 
-### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitByteBard&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
