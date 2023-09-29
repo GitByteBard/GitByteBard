@@ -47,7 +47,7 @@ Let's connect and collaborate to make the web a better place!🕊️
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="65"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="65"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="65"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="65"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="65"/>
 </div>
 
 ---
